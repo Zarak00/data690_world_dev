@@ -65,7 +65,7 @@ From the above chart we could deduce the following
 
 ![2019_gdp_scatter](https://github.com/Zarak00/data690_world_dev/blob/main/Charts/2019_gdp_scatter.png)
 
-## Comparing 2019 GDP per capita with suicide rate 
+## Comparing 2019 Population with suicide rate 
 
 ![2019_pop_scatter](https://github.com/Zarak00/data690_world_dev/blob/main/Charts/2019_pop_scatter.png)
 
