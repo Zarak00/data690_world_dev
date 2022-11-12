@@ -1,0 +1,120 @@
+,Year,value,indicator,Country Code,Country Name,Region,Income Group,Lending Type
+0,2015,44670.0805385838,NY.GDP.PCAP.PP.CD,CAN,Canada,North America,High income,Not classified
+1,2016,46472.3402486315,NY.GDP.PCAP.PP.CD,CAN,Canada,North America,High income,Not classified
+2,2017,48317.1745835151,NY.GDP.PCAP.PP.CD,CAN,Canada,North America,High income,Not classified
+3,2018,49992.7622757708,NY.GDP.PCAP.PP.CD,CAN,Canada,North America,High income,Not classified
+4,2019,49299.21177121,NY.GDP.PCAP.PP.CD,CAN,Canada,North America,High income,Not classified
+5,2020,46572.1374328364,NY.GDP.PCAP.PP.CD,CAN,Canada,North America,High income,Not classified
+6,2015,40849.9973780501,NY.GDP.PCAP.PP.CD,FRA,France,Europe & Central Asia,High income,Not classified
+7,2016,42924.613626021,NY.GDP.PCAP.PP.CD,FRA,France,Europe & Central Asia,High income,Not classified
+8,2017,44577.0645745394,NY.GDP.PCAP.PP.CD,FRA,France,Europe & Central Asia,High income,Not classified
+9,2018,46576.6018489382,NY.GDP.PCAP.PP.CD,FRA,France,Europe & Central Asia,High income,Not classified
+10,2019,49072.3638300842,NY.GDP.PCAP.PP.CD,FRA,France,Europe & Central Asia,High income,Not classified
+11,2020,46991.1820282957,NY.GDP.PCAP.PP.CD,FRA,France,Europe & Central Asia,High income,Not classified
+12,2015,47609.7810045816,NY.GDP.PCAP.PP.CD,DEU,Germany,Europe & Central Asia,High income,Not classified
+13,2016,50579.6839299266,NY.GDP.PCAP.PP.CD,DEU,Germany,Europe & Central Asia,High income,Not classified
+14,2017,53071.4555699913,NY.GDP.PCAP.PP.CD,DEU,Germany,Europe & Central Asia,High income,Not classified
+15,2018,55235.366304833,NY.GDP.PCAP.PP.CD,DEU,Germany,Europe & Central Asia,High income,Not classified
+16,2019,55652.8874913932,NY.GDP.PCAP.PP.CD,DEU,Germany,Europe & Central Asia,High income,Not classified
+17,2020,54844.5459733622,NY.GDP.PCAP.PP.CD,DEU,Germany,Europe & Central Asia,High income,Not classified
+18,2015,36899.3852092463,NY.GDP.PCAP.PP.CD,ITA,Italy,Europe & Central Asia,High income,Not classified
+19,2016,39926.9546628592,NY.GDP.PCAP.PP.CD,ITA,Italy,Europe & Central Asia,High income,Not classified
+20,2017,41581.120790548,NY.GDP.PCAP.PP.CD,ITA,Italy,Europe & Central Asia,High income,Not classified
+21,2018,43036.2437770367,NY.GDP.PCAP.PP.CD,ITA,Italy,Europe & Central Asia,High income,Not classified
+22,2019,44376.1625028912,NY.GDP.PCAP.PP.CD,ITA,Italy,Europe & Central Asia,High income,Not classified
+23,2020,41987.8159630472,NY.GDP.PCAP.PP.CD,ITA,Italy,Europe & Central Asia,High income,Not classified
+24,2015,40898.80697396,NY.GDP.PCAP.PP.CD,JPN,Japan,East Asia & Pacific,High income,Not classified
+25,2016,40596.9686628994,NY.GDP.PCAP.PP.CD,JPN,Japan,East Asia & Pacific,High income,Not classified
+26,2017,41444.2157443914,NY.GDP.PCAP.PP.CD,JPN,Japan,East Asia & Pacific,High income,Not classified
+27,2018,42116.4743457281,NY.GDP.PCAP.PP.CD,JPN,Japan,East Asia & Pacific,High income,Not classified
+28,2019,42282.5508939691,NY.GDP.PCAP.PP.CD,JPN,Japan,East Asia & Pacific,High income,Not classified
+29,2020,42100.257690921,NY.GDP.PCAP.PP.CD,JPN,Japan,East Asia & Pacific,High income,Not classified
+30,2015,42912.8750936201,NY.GDP.PCAP.PP.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+31,2016,44635.2995586517,NY.GDP.PCAP.PP.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+32,2017,46372.38660351,NY.GDP.PCAP.PP.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+33,2018,47573.4880155177,NY.GDP.PCAP.PP.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+34,2019,49041.4635475451,NY.GDP.PCAP.PP.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+35,2020,46526.9118652819,NY.GDP.PCAP.PP.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+36,2015,56762.7294515989,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+37,2016,57866.7449341091,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+38,2017,59914.7777969757,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+39,2018,62805.2537579917,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+40,2019,65094.7994287929,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+41,2020,63027.6795267153,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+42,2015,13.0,SH.STA.SUIC.P5,CAN,Canada,North America,High income,Not classified
+43,2016,11.9,SH.STA.SUIC.P5,CAN,Canada,North America,High income,Not classified
+44,2017,13.0,SH.STA.SUIC.P5,CAN,Canada,North America,High income,Not classified
+45,2018,12.0,SH.STA.SUIC.P5,CAN,Canada,North America,High income,Not classified
+46,2019,11.8,SH.STA.SUIC.P5,CAN,Canada,North America,High income,Not classified
+47,2015,15.8,SH.STA.SUIC.P5,FRA,France,Europe & Central Asia,High income,Not classified
+48,2016,14.9,SH.STA.SUIC.P5,FRA,France,Europe & Central Asia,High income,Not classified
+49,2017,14.6,SH.STA.SUIC.P5,FRA,France,Europe & Central Asia,High income,Not classified
+50,2018,14.2,SH.STA.SUIC.P5,FRA,France,Europe & Central Asia,High income,Not classified
+51,2019,13.8,SH.STA.SUIC.P5,FRA,France,Europe & Central Asia,High income,Not classified
+52,2015,13.3,SH.STA.SUIC.P5,DEU,Germany,Europe & Central Asia,High income,Not classified
+53,2016,13.0,SH.STA.SUIC.P5,DEU,Germany,Europe & Central Asia,High income,Not classified
+54,2017,12.6,SH.STA.SUIC.P5,DEU,Germany,Europe & Central Asia,High income,Not classified
+55,2018,12.9,SH.STA.SUIC.P5,DEU,Germany,Europe & Central Asia,High income,Not classified
+56,2019,12.3,SH.STA.SUIC.P5,DEU,Germany,Europe & Central Asia,High income,Not classified
+57,2015,7.1,SH.STA.SUIC.P5,ITA,Italy,Europe & Central Asia,High income,Not classified
+58,2016,6.6,SH.STA.SUIC.P5,ITA,Italy,Europe & Central Asia,High income,Not classified
+59,2017,7.1,SH.STA.SUIC.P5,ITA,Italy,Europe & Central Asia,High income,Not classified
+60,2018,6.7,SH.STA.SUIC.P5,ITA,Italy,Europe & Central Asia,High income,Not classified
+61,2019,6.7,SH.STA.SUIC.P5,ITA,Italy,Europe & Central Asia,High income,Not classified
+62,2015,19.1,SH.STA.SUIC.P5,JPN,Japan,East Asia & Pacific,High income,Not classified
+63,2016,17.5,SH.STA.SUIC.P5,JPN,Japan,East Asia & Pacific,High income,Not classified
+64,2017,17.0,SH.STA.SUIC.P5,JPN,Japan,East Asia & Pacific,High income,Not classified
+65,2018,16.7,SH.STA.SUIC.P5,JPN,Japan,East Asia & Pacific,High income,Not classified
+66,2019,15.3,SH.STA.SUIC.P5,JPN,Japan,East Asia & Pacific,High income,Not classified
+67,2015,8.8,SH.STA.SUIC.P5,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+68,2016,8.5,SH.STA.SUIC.P5,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+69,2017,8.2,SH.STA.SUIC.P5,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+70,2018,8.1,SH.STA.SUIC.P5,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+71,2019,7.9,SH.STA.SUIC.P5,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+72,2015,14.4,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
+73,2016,15.1,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
+74,2017,15.9,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
+75,2018,15.7,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
+76,2019,16.1,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
+77,2015,35702908.0,SP.POP.TOTL,CAN,Canada,North America,High income,Not classified
+78,2016,36109487.0,SP.POP.TOTL,CAN,Canada,North America,High income,Not classified
+79,2017,36545236.0,SP.POP.TOTL,CAN,Canada,North America,High income,Not classified
+80,2018,37065084.0,SP.POP.TOTL,CAN,Canada,North America,High income,Not classified
+81,2019,37601230.0,SP.POP.TOTL,CAN,Canada,North America,High income,Not classified
+82,2020,38037204.0,SP.POP.TOTL,CAN,Canada,North America,High income,Not classified
+83,2015,66548272.0,SP.POP.TOTL,FRA,France,Europe & Central Asia,High income,Not classified
+84,2016,66724104.0,SP.POP.TOTL,FRA,France,Europe & Central Asia,High income,Not classified
+85,2017,66918020.0,SP.POP.TOTL,FRA,France,Europe & Central Asia,High income,Not classified
+86,2018,67101930.0,SP.POP.TOTL,FRA,France,Europe & Central Asia,High income,Not classified
+87,2019,67248926.0,SP.POP.TOTL,FRA,France,Europe & Central Asia,High income,Not classified
+88,2020,67379908.0,SP.POP.TOTL,FRA,France,Europe & Central Asia,High income,Not classified
+89,2015,81686611.0,SP.POP.TOTL,DEU,Germany,Europe & Central Asia,High income,Not classified
+90,2016,82348669.0,SP.POP.TOTL,DEU,Germany,Europe & Central Asia,High income,Not classified
+91,2017,82657002.0,SP.POP.TOTL,DEU,Germany,Europe & Central Asia,High income,Not classified
+92,2018,82905782.0,SP.POP.TOTL,DEU,Germany,Europe & Central Asia,High income,Not classified
+93,2019,83092962.0,SP.POP.TOTL,DEU,Germany,Europe & Central Asia,High income,Not classified
+94,2020,83160871.0,SP.POP.TOTL,DEU,Germany,Europe & Central Asia,High income,Not classified
+95,2015,60730582.0,SP.POP.TOTL,ITA,Italy,Europe & Central Asia,High income,Not classified
+96,2016,60627498.0,SP.POP.TOTL,ITA,Italy,Europe & Central Asia,High income,Not classified
+97,2017,60536709.0,SP.POP.TOTL,ITA,Italy,Europe & Central Asia,High income,Not classified
+98,2018,60421760.0,SP.POP.TOTL,ITA,Italy,Europe & Central Asia,High income,Not classified
+99,2019,59729081.0,SP.POP.TOTL,ITA,Italy,Europe & Central Asia,High income,Not classified
+100,2020,59449527.0,SP.POP.TOTL,ITA,Italy,Europe & Central Asia,High income,Not classified
+101,2015,127141000.0,SP.POP.TOTL,JPN,Japan,East Asia & Pacific,High income,Not classified
+102,2016,127076000.0,SP.POP.TOTL,JPN,Japan,East Asia & Pacific,High income,Not classified
+103,2017,126972000.0,SP.POP.TOTL,JPN,Japan,East Asia & Pacific,High income,Not classified
+104,2018,126811000.0,SP.POP.TOTL,JPN,Japan,East Asia & Pacific,High income,Not classified
+105,2019,126633000.0,SP.POP.TOTL,JPN,Japan,East Asia & Pacific,High income,Not classified
+106,2020,126261000.0,SP.POP.TOTL,JPN,Japan,East Asia & Pacific,High income,Not classified
+107,2015,65116219.0,SP.POP.TOTL,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+108,2016,65611593.0,SP.POP.TOTL,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+109,2017,66058859.0,SP.POP.TOTL,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+110,2018,66460344.0,SP.POP.TOTL,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+111,2019,66836327.0,SP.POP.TOTL,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+112,2020,67081000.0,SP.POP.TOTL,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+113,2015,320738994.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+114,2016,323071755.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+115,2017,325122128.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+116,2018,326838199.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+117,2019,328329953.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+118,2020,331501080.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
